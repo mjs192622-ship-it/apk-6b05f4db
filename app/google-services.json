@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "998652270277",
+        "project_id": "flowlearn-ng-2ab84",
+        "storage_bucket": "flowlearn-ng-2ab84.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:998652270277:android:7b8b16e651ae22638302ac",
+                "android_client_info": {
+                    "package_name": "com.destinee007.flowlearnng"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAiTUTvNNbyKa4InNL0C_LlwhLtfWiXzjQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
